@@ -1,0 +1,7 @@
+liam-hockey-training-site/
+├── index.html
+├── about.html
+├── css/
+│   └── style.css
+└── js/
+    └── script.js
